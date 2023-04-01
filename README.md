@@ -13,5 +13,5 @@ Screenshot of the dashboard:
 
 ![videogames_ss2](https://user-images.githubusercontent.com/54434692/229277409-c15c2dc7-94db-468c-9169-21a73a9e7e3a.PNG)
 
-Link of the Novypro Account: 
+Link of the Novypro Account to view the dashboard: 
 https://www.novypro.com/profile_projects/mayur
